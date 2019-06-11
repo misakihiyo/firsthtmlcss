@@ -1,0 +1,68 @@
+body{
+    font-family: "Arial";
+    text-align: center;
+    background-color : blanchedalmond;
+    border: 5px  grey outset;
+    margin-left: 70px;
+    margin-right: 220px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding : 15px;
+}
+
+aside{
+    border: 5px black solid;
+    height: 100%;
+    width: 200px;
+    position: absolute;
+    z-index: 1;
+    top: 30px;
+    right: 0;
+    background-color: grey;
+    overflow-x: hidden;
+}
+
+section{
+    text-align: left;
+}
+
+.body{
+    text-align : justify;
+    right: 30px;
+}
+
+.apple{
+    background-color: aqua;
+    color: blue;
+}
+
+p{
+    color: black;
+    font-family: 'Georgia';
+}
+
+img{
+    float: left;
+    margin-right: 10px;
+   
+}
+
+.heading{
+    font-style: bold;
+    border: double grey 5px;
+    margin: 5px;
+    padding: 5px;
+    font-size : 40px;
+}
+
+h3{
+    font-synthesis: bold;
+    font-size: 25px;
+}
+
+q{
+    font-size : 17.5px;
+    font-family: cursive;
+    margin: 5px;
+    padding: 5px;
+}
